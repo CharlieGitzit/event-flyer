@@ -1,0 +1,26 @@
+body {
+    padding: 50px 0;
+    margin: 0 auto;
+    width: 80vw;
+    min-height: calc(100vh - 100px)
+  }
+  
+  h1 {
+  padding-top: 25px;
+  }
+  
+  .image, h1 {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+  }
+  
+  
+  hr {
+    width: 100%;
+  }
+  
+  section {
+    width: 100%;
+    text-align: center;
+  }
